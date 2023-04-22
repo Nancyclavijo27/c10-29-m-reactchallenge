@@ -18,7 +18,7 @@ const AboutUs = () => {
 
       <div className="contenido-nosotros">
         <p>
-          Somos una plataforma dedicada a la comercialización de tickets para todo
+          Somos una plataforma dedicada  la comercialización de tickets para todo
           tipo de eventos. ¡Nuestro equipo está conformado por profesionales de
           alto nivel! ¡Tan apasionados como tú por la música, los deportes y el
           arte!
